@@ -1,2 +1,2 @@
 # IEDS
-Causal Discovery System of Multivariate Post-nonlinear Model
+Causal Discovery System using Multivariate Post-nonlinear Models
