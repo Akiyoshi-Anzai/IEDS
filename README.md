@@ -24,6 +24,8 @@ IEDS (Instant Effect Detection System/ お手軽効果特定システム/ 瞬時
 
 Named by Dr. Murakami Sadayoshi (ORCiD: https://orcid.org/0000-0002-2526-7137).
 
+**Not named for Improvised Explosive Device (即製爆発装置)!!**
+
 ------------------------------------------------------------------------
 # About availability
 Now preparing for beeing publicly available.
