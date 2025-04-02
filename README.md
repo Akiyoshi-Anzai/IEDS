@@ -20,7 +20,7 @@ AbPNL: https://github.com/rafcc/abpnl
 
 -------------------------------------------------------------------------
 # About the name of IEDS
-IEDS (Instant Effect Detection System/ お手軽効果特定システム/ 瞬時効果特定システム 等) is named for "Aizu (会津)", which is the name of the district in the Fukushima prefecture in Japan.
+IEDS (Instant Effect Detection System/ お手軽効果特定システム/ 瞬時効果特定システム 等) is named for "Aizu (会津)", which is the name of the district in the Fukushima prefecture in Japan (Wikipedia: https://en.wikipedia.org/wiki/Aizu).
 
 Named by Dr. Murakami Sadayoshi (ORCiD: https://orcid.org/0000-0002-2526-7137).
 
