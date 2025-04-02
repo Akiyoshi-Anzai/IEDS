@@ -2,7 +2,7 @@
 Causal Discovery System Using Multivariate Post-nonlinear Models
 
 This code is used in the paper "Understanding of parameter dependence among the radiative collapse data in LHD plasmas with a causal discovery approach" (2025) by A. Anzai et al.
-
+\n
 
 Our paper "Understanding of parameter dependence among the radiative collapse data in LHD plasmas with a causal discovery approach" (2025): https://pubs.aip.org/aip/pop/article/32/3/033903/3340255/Understanding-of-parameter-dependence-among-the
 
@@ -15,7 +15,7 @@ The paper by K. Uemura et al., "A Multivariate Causal Discovery based on Post-No
 AbPNL: https://github.com/rafcc/abpnl
 
 -------------------------------------------------------------------------
-# About the neme of IEDS
+# About the name of IEDS
 IEDS (Instant Effect Detection System/ お手軽効果特定システム) is named for "Aizu (会津)", which is the name of the district in the Fukushima prefecture.
 
 Named by Dr. Murakami Sadayoshi (ORCiD: https://orcid.org/0000-0002-2526-7137).
