@@ -1,7 +1,7 @@
 # IEDS
 Causal Discovery System Using Multivariate Post-nonlinear Models
 
-This code is used in the paper "Understanding of parameter dependence among the radiative collapse data in LHD plasmas with a causal discovery approach" (2025) by A. Anzai *et al*.
+This code is used in our study and our paper "Understanding of parameter dependence among the radiative collapse data in LHD plasmas with a causal discovery approach" (2025) by A. Anzai *et al*.
 
 **Our paper**
 
