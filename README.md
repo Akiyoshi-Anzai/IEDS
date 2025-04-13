@@ -3,9 +3,15 @@ Causal Discovery System Using Multivariate Post-nonlinear Models
 
 This code is used in the paper "Understanding of parameter dependence among the radiative collapse data in LHD plasmas with a causal discovery approach" (2025) by A. Anzai *et al*.
 
-**Our paper** <br>
-"Understanding of parameter dependence among the radiative collapse data in LHD plasmas with a causal discovery approach" (2025): <br>
+**Our paper**
+
+"Understanding of parameter dependence among the radiative collapse data in LHD plasmas with a causal discovery approach" (2025):
 https://pubs.aip.org/aip/pop/article/32/3/033903/3340255/Understanding-of-parameter-dependence-among-the
+
+------------------------------------------------------------------------
+# Acknowledgements
+
+A.A. would like to thank Dr. Uemura Kento of the Artificial Intelligence Laboratory, Fujitsu Ltd. for his advice and for answering many questions concerning his paper.
 
 ------------------------------------------------------------------------
 # Base paper and code
@@ -23,8 +29,6 @@ AbPNL: https://github.com/rafcc/abpnl
 IEDS (Instant Effect Detection System/ お手軽効果特定システム/ 瞬時効果特定システム 等) is named for "Aizu (会津)", which is the name of the district in the Fukushima prefecture in Japan (Wikipedia: https://en.wikipedia.org/wiki/Aizu).
 
 Named by Dr. Murakami Sadayoshi (ORCiD: https://orcid.org/0000-0002-2526-7137).
-
-**Not named for Improvised Explosive Device (即製爆発装置)!!**
 
 ------------------------------------------------------------------------
 # About availability
