@@ -3,6 +3,8 @@ Causal Discovery System Using Multivariate Post-nonlinear Models
 
 This code is used in our study and our paper "Understanding of parameter dependence among the radiative collapse data in LHD plasmas with a causal discovery approach" (2025) by A. Anzai *et al*.
 
+In terms of physics, the causal discovery method of this code would show not "causality" but "dependence", because the method does not use information of time.
+
 **Our paper**
 
 "Understanding of parameter dependence among the radiative collapse data in LHD plasmas with a causal discovery approach" (2025):
