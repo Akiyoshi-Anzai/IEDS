@@ -31,9 +31,9 @@ IEDS is created based on the papaer by Dr. Uemura Kento *et al*., and also based
 
 [日本語]
 
-IEDSを作成するにあたり，富士通上村健人研究員と理化学研究所の共同研究の成果であるAuto-encoder based Post-nonlinear Model(AbPNL)を参考にしている．
+IEDSを作成するにあたり，富士通上村健人研究員と理化学研究所の共同研究の成果であるAutoencoder-based Post-Nonlinear Model(AbPNL)を参考にしている．
 
-**The paper and the code by K. Uemura *et al*./上村健人研究員らの先行研究ならびにAbPNLコード** <br>
+**The paper and the code by K. Uemura *et al*. / 上村健人研究員らの先行研究ならびにAbPNLコード** <br>
 "A Multivariate Causal Discovery based on Post-Nonlinear Model" (2022): <br>
 https://proceedings.mlr.press/v177/uemura22a.html
 
