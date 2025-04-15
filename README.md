@@ -73,7 +73,7 @@ IEDS (Instant Effect Detection System/ お手軽効果特定システム/ 瞬時
 Named by Dr. Murakami Sadayoshi (ORCiD: https://orcid.org/0000-0002-2526-7137).
 
 ------------------------------------------------------------------------
-# About availabilit / 使用に関しての注意他
+# About availability / 使用に関しての注意他
 
 [English]
 
