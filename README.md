@@ -13,8 +13,7 @@ In terms of physics, the causal discovery method of this code would show not "ca
 
 物理学の観点からは，本手法は時間の情報を使用せずタイムスライスを用いるため，推定される関係性は「因果」関係というよりも「依存」関係であると考える方がより妥当だと思われる．
 
-**Our paper/研究論文**
-
+**Our paper / 研究論文**<br>
 "Understanding of parameter dependence among the radiative collapse data in LHD plasmas with a causal discovery approach" (2025):
 https://pubs.aip.org/aip/pop/article/32/3/033903/3340255/Understanding-of-parameter-dependence-among-the
 
@@ -41,7 +40,7 @@ https://proceedings.mlr.press/v177/uemura22a.html
 AbPNL: https://github.com/rafcc/abpnl
 
 -------------------------------------------------------------------------
-# How to use IEDS? / 使用方法
+# How to use IEDS ? / 使用方法
 
 [English]
 
